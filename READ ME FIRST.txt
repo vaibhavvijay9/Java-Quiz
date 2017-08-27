@@ -1,0 +1,22 @@
+Java Quiz
+
+Instructions:
+1. Copy the "javaquiz1" folder into Apache Tomcat folder.
+2. Install the database using the given "quiz_db.sql" file.
+3. System must be connected to the internet.
+
+Features:
+1. Session Management implemented
+2. BACK button of the browser disabled
+3. Validation on 'Submit' button
+4. Every time unique and random questions from a pool of 157 questions in database.
+5. Well formatted Result page
+6. Responsive i.e. Bootstrap used
+7. Again New Quiz from the Result page
+
+
+Made By:
+Vaibhav Vijay
+Anmol Madan (Session Management,BACK button)
+Ritik Patni (JavaScript,Bootstrap)
+
