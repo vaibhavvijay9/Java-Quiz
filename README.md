@@ -1,13 +1,13 @@
 # Java-Quiz
 An online Quiz using servlets and MySQL as database.
 
-#### 1. Welcome Page
+### 1. Welcome Page
 ![Screenshot1](/screenshots/screenshot1.png)
 
-#### 2. Quiz Interface
+### 2. Quiz Interface
 ![Screenshot1](/screenshots/screenshot2.png)
 
-#### 3. Result Page
+### 3. Result Page
 ![Screenshot1](/screenshots/screenshot3.png)
 
 
